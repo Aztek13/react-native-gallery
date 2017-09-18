@@ -19,7 +19,7 @@
   "dependencies": {
     "react": "=15.4.1",
     "react-native-transformable-image": "github:Aztek13/react-native-transformable-image",
-    "react-native-view-pager": "github:Aztek13/react-native-transformable-image",
-    "react-native-gesture-responder": "github:Aztek13/react-native-transformable-image"
+    "react-native-view-pager": "github:Aztek13/react-native-view-pager",
+    "react-native-gesture-responder": "github:Aztek13/react-native-gesture-responder"
   }
 }
